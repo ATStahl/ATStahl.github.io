@@ -41,6 +41,7 @@ Research Themes
 
 Recent Publications
 ======
+* Ferreira A., Shipley L., Stahl A.T., Camp M., & Meddens A.J.H. 2025. Handheld photogrammetry advances capabilities to systematically characterize broken-rock habitat. Wildlife Society Bulletin. <a href="https://doi.org/10.1002/wsb.1613">https://doi.org/10.1002/wsb.1613</a>
 * Stahl, A., Yorgey, G., Peters, R.T. 2024. Methods of estimating crop evapotranspiration with remote sensing: advantages and limitations. WSU Extension. <a href="https://pubs.extension.wsu.edu/methods-of-estimating-crop-evapotranspiration-with-remote-sensing-advantages-and-limitations">https://pubs.extension.wsu.edu/methods-of-estimating-crop-evapotranspiration-with-remote-sensing-advantages-and-limitations</a>
 * Hicke, J.A.; Bright, B.C.; Hanavan, R.P.; Hudak, A.T.; Meddens, A.J.H.; Shrestha, A.; Stahl, A.T. 2024. Remote sensing of forest insect and disease outbreaks in the western United States: Tree, stand, and landscape responses and technologies and methods for detection and attribution. RMRS-GTR-443. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. 92 p. <a href="https://doi.org/10.2737/RMRS-GTR-443">https://doi.org/10.2737/RMRS-GTR-443</a>
 * Celebrezze, J., Franz, M., Andrus, R., Steen-Adams, M.M., Stahl, A.T., & Meddens, A.J.H. 2024. A fast spectral recovery does not necessarily indicate post-fire forest recovery. Fire Ecology. <a href="https://doi.org/10.1186/s42408-024-00288-6">https://doi.org/10.1186/s42408-024-00288-6</a>
@@ -56,6 +57,9 @@ Recent Publications
 
 Talks
 ======
+* Stahl, A., Hooper, D. and Tershy, A., 2025. Links between governance and riparian restoration to improve water quality in the Nooksack River watershed, Washington State USA. 7th International Symposium on River Science.
+* Stahl, A.T., 2025. Views from above: detecting ecosystem characteristics with imagery. Marilyn & James Hyde Seminar, Dept. of Entomology, Washington State University.
+* Stahl, A.T. and Meddens, A., 2025. Post-fire Recovery Decision Support Platform: A multi-scale decision support platform for adaptive management of post-fire landscapes. Northern Blues Restoration Partnership Annual Working Meeting. Baker City, OR.
 * Stahl, A.T. 2023. Drones in riparian monitoring. Washington Association of District Employees Annual Meeting. Leavenworth, WA.
 * Stahl, A.T. 2022. Riparian Conservation: Why and Where It Matters to People and Nature. Conservation Talk Series hosted by Palouse Conservation District, WA.
 * Stahl, A.T. and Fremier, A.K. 2022. Translatability of lessons learned from adaptive governance experiments across socio-economic contexts. 2022 Toronto Conference on Earth System Governance.
